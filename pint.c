@@ -16,3 +16,4 @@ void f_pint(stack_t **head, unsigned int counter)
                 exit(EXIT_FAILURE);
         }
         printf("%d\n", (*head)->n);
+}

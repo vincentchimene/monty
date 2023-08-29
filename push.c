@@ -34,3 +34,4 @@ void f_push(stack_t **head, unsigned int counter)
                 addnode(head, n);
         else
                 addqueue(head, n);
+}
